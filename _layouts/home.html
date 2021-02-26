@@ -36,10 +36,10 @@ return false;
 <h4 class="archive__subtitle">About Me</h4>
 
 
-<p> I am a PhD student in Computer Vision at <a href="https://www.sydney.edu.au/">The University of Sydney</a> (USYD) advised by <a href=https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tom-cai.html>A/Prof. Weidong Cai</a> and <a href="http://www.cse.unsw.edu.au/~ysong/">Dr. Yang Song</a>. My research interests lie in 3D Scene Understanding and Medical Image Computing. Previously, I graduated with a BCST (Adv; Hons 1 and UniMedal) in Computer Science from USYD.
+<p> I am a PhD student in Computer Vision at The <a href="https://www.sydney.edu.au/" target="_blank">University of Sydney</a> (USYD) advised by <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tom-cai.html" target="_blank">A/Prof. Weidong Cai</a> and <a href="http://www.cse.unsw.edu.au/~ysong/" target="_blank">Dr. Yang Song</a>. My research interests lie in 3D Scene Understanding and Medical Image Computing. Previously, I graduated with a BCST (Advanced) First Class Honours degree in Computer Science with University Medal from USYD.
 </p>
 <blockquote>
-	<p> I pet an <a href="https://en.wikipedia.org/wiki/Axolotl">axolotl</a> and <button id="clickme" onclick="changeImage();">Debbie</button> is her name.<br>
+	<p> I pet an <a href="https://en.wikipedia.org/wiki/Axolotl" target="_blank">axolotl</a> and <button id="clickme" onclick="changeImage();">Debbie</button> is her name.<br>
 	I do <del>lure fishing</del> but it got me nothing at Sydney Harbor.<br>
 	I fancy <b>still waters</b> as they generally <b>run deep</b>.
 </p>
@@ -48,7 +48,7 @@ return false;
 
 </blockquote>
 
-<h4 class="archive__subtitle">Publications</h4>
+<h4 class="archive__subtitle">Highlighted Publications</h4>
 <div class='mainitem' id='publications'>
 
 	{% assign sorted_pubs = site.data.publications | sort: 'date' | reverse %}
@@ -69,7 +69,7 @@ return false;
 			{% endcapture %}
 
 			<div class='col-lg-3 col-md-4 col-xs-4 pubimagesection'>
-				<a target='_blank' href='{{ mainlink }}'><img class='pubimage img img-responsive' src='assets/pubthumbs/{{ pub.id }}.png' width='500'/></a>
+				<a target='_blank' href='{{ mainlink }}'><img class='pubimage img img-responsive' src='assets/pubthumbs/{{ pub.id }}.png' width='200' height="100"/></a>
 			</div>
 
 			<div class='col-lg-9 col-md-8 col-xs-8 pubtextsection'>
@@ -130,23 +130,22 @@ return false;
 	{% endfor %}
 
 	</div>
-
-
-<br><br>
+<p style="font-size:0.6em"><em>* A full list of my publications can be found in my <a href="https://scholar.google.com/citations?user=GSM6eT0AAAAJ" target="_blank">Google Scholar</a>.</em></p>
+<br>
 
 <h4 class="archive__subtitle">Teaching, Research, Reviewing, and Mentoring Experiences</h4>
 <ul>
-	<li style="font-size:0.7em"><a href="https://www.sydney.edu.au/units/COMP3419">COMP3419 Graphics and Multimedia@USYD</a>: Head TA; intro. research <a href="/talks/comp3419-intro-talk.pdf">talks</a> for UG. students;</li>
-	<li style="font-size:0.7em"><a href="https://www.sydney.edu.au/units/COMP5424">COMP5424 Information Technology in Biomedicine@USYD</a>: TA, guest lecturer;</li>
-	<li style="font-size:0.7em"><a href="https://webcms3.cse.unsw.edu.au/COMP9517/19T2/outline">COMP9517 Computer Vision@UNSW</a>: TA, research talks;</li>
-	<li style="font-size:0.7em"><a href="https://www.sydney.edu.au/units/COMP9110">COMP9110 System Analysis and Modelling@USYD</a>: tutor;</li>
-	<li style="font-size:0.7em">RA at USYD for joint research projects with <a href="https://www.sydney.edu.au/brain-mind/">BMC</a>, <a href="https://www.sydney.edu.au/nano/">Sydney Nano</a>, <a href="https://www.sydney.edu.au/save-sight-institute">Save Sight Institute</a>, <a href="https://www.sydney.edu.au/medicine-health/schools/sydney-pharmacy-school.html">Sydney Pharmacy School</a>, <a href="https://researchers.mq.edu.au/en/prizes/dicta-2018-cisra-potential-impact-award">Macquarie University</a>, <a href="https://www.siemens-healthineers.com/">Siemens Healthineers</a>, <a href="https://lmi.med.harvard.edu/">HMS-LMI</a>, and <a href="http://yishi.sjtu.edu.cn/deepAntigen/About.htm">SJTU-KLSB</a>;</li>
-	<li style="font-size:0.7em">Prev. RA at <a href="https://www.uts.edu.au/research-and-teaching/our-research/global-big-data-technologies-centre">UTS</a> and <a href="https://www.csiro.au/">CSIRO Data61</a> (f.k.a, NICTA);</li>
+	<li style="font-size:0.7em"><a href="https://www.sydney.edu.au/units/COMP3419" target="_blank">COMP3419 Graphics and Multimedia@USYD</a>: Head TA; intro. research <a href="/talks/comp3419-intro-talk.pdf" target="_blank">talks</a> for UG. students;</li>
+	<li style="font-size:0.7em"><a href="https://www.sydney.edu.au/units/COMP5424" target="_blank">COMP5424 Information Technology in Biomedicine@USYD</a>: TA, guest lecturer;</li>
+	<li style="font-size:0.7em"><a href="https://webcms3.cse.unsw.edu.au/COMP9517/19T2/outline" target="_blank">COMP9517 Computer Vision@UNSW</a>: TA, research talks;</li>
+	<li style="font-size:0.7em"><a href="https://www.sydney.edu.au/units/COMP9110" target="_blank">COMP9110 System Analysis and Modelling@USYD</a>: tutor;</li>
+	<li style="font-size:0.7em">RA at USYD for joint research projects with <a href="https://www.sydney.edu.au/brain-mind/" target="_blank">BMC</a>, <a href="https://www.sydney.edu.au/nano/" target="_blank">Sydney Nano</a>, <a href="https://www.sydney.edu.au/save-sight-institute" target="_blank">Save Sight Institute</a>, <a href="https://www.sydney.edu.au/medicine-health/schools/sydney-pharmacy-school.html" target="_blank">Sydney Pharmacy School</a>, <a href="https://researchers.mq.edu.au/en/prizes/dicta-2018-cisra-potential-impact-award" target="_blank">Macquarie University</a>, <a href="https://www.siemens-healthineers.com/" target="_blank">Siemens Healthineers</a>, <a href="https://lmi.med.harvard.edu/" target="_blank">HMS-LMI</a>, and <a href="http://yishi.sjtu.edu.cn/deepAntigen/About.htm" target="_blank">SJTU-KLSB</a>;</li>
+	<li style="font-size:0.7em">Prev. RA at <a href="https://www.uts.edu.au/research-and-teaching/our-research/global-big-data-technologies-centre" target="_blank">UTS</a> and <a href="https://www.csiro.au/" target="_blank">CSIRO Data61</a> (f.k.a, NICTA);</li>
 	<li style="font-size:0.7em">Reviewer for CVPR, ICCV, AAAI, MICCAI, WACV, DICTA, ICIP, ICASSP, ISBI, EMBC;</li>
-	<li style="font-size:0.7em">Assist supervision and mentoring undergraduate <a href="https://kmrg.cs.usyd.edu.au/current_students/undergrad/tsp-ssp.shtml">SSP/TSP</a> and MPhil. research students - welcome to join our <a href=https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tom-cai.html>research squad</a>!</li>
+	<li style="font-size:0.7em">Assist supervision and mentoring undergraduate <a href="https://kmrg.cs.usyd.edu.au/current_students/undergrad/tsp-ssp.shtml" target="_blank">SSP/TSP</a> and MPhil. research students - welcome to join our <a href=https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tom-cai.html" target="_blank">research squad</a>!</li>
 </ul>
 
-<h4 class="archive__subtitle">Honors</h4>
+<h4 class="archive__subtitle">Honors and Awards</h4>
 <ul>
 	<li style="font-size:0.7em">Google PhD Fellowship Finalist</li>
 	<li style="font-size:0.7em">AAAI Student Scholarship Award</li>
@@ -155,7 +154,7 @@ return false;
 	<li style="font-size:0.7em">Google Cloud Platform Education Grant for teaching research-led multimedia courses (well done for our teaching team!)</li>
 	<li style="font-size:0.7em">Microsoft Research Prize for Multimedia Technologies</li>
 	<li style="font-size:0.7em">Honorable Mention in Mathematical Contest in Modeling (MCM Competition)</li>
-	<li style="font-size:0.7em">UG. High Honor Roll / UG. Summer Research Scholarship / PG. High Honor Roll / PG. Research Support Scheme / University of Sydney Academic Merit Prize / Dean’s List of Excellence in Academic Performance @ USYD</li>
+	<li style="font-size:0.7em">UG. High Honor Roll / UG. Summer Research Scholarship / PG. High Honor Roll / PG. Research Support Scheme / University of Sydney Academic Merit Prize / Dean’s List of Excellence in Academic Performance / University Medal @ USYD</li>
 </ul>
 
 <!--

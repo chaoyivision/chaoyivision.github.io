@@ -10,6 +10,15 @@
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
+    <!-- Global site tag (gtag.js) - Google Analytics - CY -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2F53B2SRY1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-2F53B2SRY1');
+    </script>
     {% include head.html %}
     {% include head/custom.html %}
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/icon.png"/>
