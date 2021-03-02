@@ -7,7 +7,7 @@
 		"date": "2019-10-10",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "/papers/VesselNet.pdf"},
-			{"type": "link", "name": "follow-on works", "target": "https://scholar.google.com/citations?user=_h1y48MAAAAJ"}
+			{"type": "link", "name": "Yicheng's follow-on works", "target": "https://scholar.google.com/citations?user=_h1y48MAAAAJ"}
 		],
         "equalcontrib": false
 	},
@@ -34,7 +34,7 @@
 		"date": "2019-08-10",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://www.ijcai.org/Proceedings/2019/0121.pdf"},
-			{"type": "link", "name": "follow-on works", "target": "https://scholar.google.com/citations?user=JZzb8XUAAAAJ"}
+			{"type": "link", "name": "Dongnan's follow-on works", "target": "https://scholar.google.com/citations?user=JZzb8XUAAAAJ"}
 		],
 		"equalcontrib": false
 	},
