@@ -9,21 +9,22 @@
 			{"type": "link", "name": "paper", "target": "/papers/VesselNet.pdf"},
 			{"type": "link", "name": "follow-on works", "target": "https://scholar.google.com/citations?user=_h1y48MAAAAJ"}
 		],
-                "equalcontrib": false
+        "equalcontrib": false
 	},
 
-	{
-		"id": "MSGAN",
-		"title": "MS-GAN: GAN-Based Semantic Segmentation of Multiple Sclerosis Lesions in Brain Magnetic Resonance Imaging",
-		"authors": ["<u>Chaoyi Zhang</u>", "Yang Song", "Sidong Liu", "Scott Lill", "Chenyu Wang", "Zihao Tang", "Yuyi You", "Yang Gao", "Alexander Klistorner", "Michael Barnett", "Weidong Cai"],
-		"venue": "DICTA 2018 (Best Student Paper Award)",
-		"date": "2018-12-10",
-		"links" : [
-			{"type": "link", "name": "paper", "target": "/papers/MSGAN.pdf"},
-			{"type": "link", "name": "slides", "target": "/papers/MSGAN18Slides.pdf"}
-		],
-		"equalcontrib": false
-	},
+
+	//{
+	//	"id": "MSGAN",
+	//	"title": "MS-GAN: GAN-Based Semantic Segmentation of Multiple Sclerosis Lesions in Brain Magnetic Resonance Imaging",
+	//	"authors": ["<u>Chaoyi Zhang</u>", "Yang Song", "Sidong Liu", "Scott Lill", "Chenyu Wang", "Zihao Tang", "Yuyi You", "Yang Gao", "Alexander Klistorner", "Michael Barnett", "Weidong Cai"],
+	//	"venue": "DICTA 2018 (Best Student Paper Award)",
+	//	"date": "2018-12-10",
+	//	"links" : [
+	//		{"type": "link", "name": "paper", "target": "/papers/MSGAN.pdf"},
+	//		{"type": "link", "name": "slides", "target": "/papers/MSGAN18Slides.pdf"}
+	//	],
+	//	"equalcontrib": false
+	//},
 
 	{
 		"id": "NuSeg19",
