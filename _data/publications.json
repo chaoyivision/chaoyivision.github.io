@@ -33,8 +33,8 @@
 		"date": "2020-10-04",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2007.00243.pdf"},
-			{"type": "link", "name": "video", "target": ""},
 			{"type": "link", "name": "project", "target": "https://github.com/tiangexiang/BiO-Net"},
+			{"type": "link", "name": "video", "target": "https://github.com/tiangexiang/BiO-Net"},
 			{"type": "link", "name": "follow-on works", "target": ""}
 		],
 		"equalcontrib": false
@@ -61,7 +61,8 @@
 		"date": "2021-06-19",
 		"links" : [
 			{"type": "link", "name": "paper", "target": ""},
-			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"}
+			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"},
+			{"type": "link", "name": "video", "target": "sggpoint.github.io/#video"}
 		],
 		"equalcontrib": false
 	}
