@@ -65,6 +65,19 @@
 			{"type": "link", "name": "slides", "target": "/papers/SOCNN19Slides.pdf"}
 		],
 		"equalcontrib": false
+	},
+
+	{
+		"id": "SGGpoint",
+		"title": "Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis",
+		"authors": ["<u>Chaoyi Zhang</u>", "Jianhui Yu","Yang Song", "Weidong Cai"],
+		"venue": "CVPR 2021",
+		"date": "2021-06-19",
+		"links" : [
+			{"type": "link", "name": "paper", "target": ""},
+			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"}
+		],
+		"equalcontrib": false
 	}
 
 
