@@ -59,9 +59,10 @@
 		"venue": "CVPR 2021",
 		"date": "2021-06-19",
 		"links" : [
-			{"type": "link", "name": "paper", "target": ""},
-			{"type": "link", "name": "project", "target": ""},
-			{"type": "link", "name": "video", "target": ""}
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2103.05558.pdf"},
+			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"},
+			{"type": "link", "name": "video", "target": "https://sggpoint.github.io/#video"},
+			{"type": "link", "name": "supp.", "target": "https://sggpoint.github.io/supplementary.pdf"}
 		],
 		"equalcontrib": false
 	}
