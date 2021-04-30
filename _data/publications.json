@@ -33,8 +33,7 @@
 		"date": "2020-10-04",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2007.00243.pdf"},
-			{"type": "link", "name": "project", "target": "https://github.com/tiangexiang/BiO-Net"},
-			{"type": "link", "name": "video", "target": "https://github.com/tiangexiang/BiO-Net"}
+			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/BiO-Net"}
 		],
 		"equalcontrib": false
 	},
