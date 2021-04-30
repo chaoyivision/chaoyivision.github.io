@@ -73,7 +73,7 @@
 		"venue": "IJCNN 2021",
 		"date": "2021-04-26",
 		"links" : [
-			{"type": "link", "name": "paper", "target": "https://arxiv.org/abs/2005.04370.pdf"},
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2005.04370.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/crane-papercode/ICE-GAN"}
 		],
 		"equalcontrib": false
