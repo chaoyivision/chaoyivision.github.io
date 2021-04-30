@@ -65,5 +65,18 @@
 			{"type": "link", "name": "supp.", "target": "https://sggpoint.github.io/supplementary.pdf"}
 		],
 		"equalcontrib": false
+	},
+
+	{
+		"id": "ICEGAN",
+		"title": "ICE-GAN: Identity-aware and Capsule-Enhanced GAN with Graph-based Reasoning for Micro-Expression Recognition and Synthesis",
+		"authors": ["Jianhui Yu", "<u>Chaoyi Zhang</u>","Yang Song", "Weidong Cai"],
+		"venue": "IJCNN 2021",
+		"date": "2021-04-26",
+		"links" : [
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/abs/2005.04370.pdf"},
+			{"type": "link", "name": "code", "target": "https://github.com/crane-papercode/ICE-GAN"}
+		],
+		"equalcontrib": false
 	}
 ]
