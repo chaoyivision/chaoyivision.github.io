@@ -61,7 +61,8 @@
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2103.05558.pdf"},
 			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"},
 			{"type": "link", "name": "video", "target": "https://sggpoint.github.io/#video"},
-			{"type": "link", "name": "supp.", "target": "https://sggpoint.github.io/supplementary.pdf"}
+			{"type": "link", "name": "supp.", "target": "https://sggpoint.github.io/supplementary.pdf"},
+			{"type": "link", "name": "code", "target": "https://github.com/chaoyivision/SGGpoint"}
 		],
 		"equalcontrib": false
 	},
