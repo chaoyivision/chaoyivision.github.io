@@ -77,7 +77,8 @@
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2105.01288.pdf"},
 			{"type": "link", "name": "project", "target": "https://curvenet.github.io/"},
 			{"type": "link", "name": "video", "target": "https://curvenet.github.io/#video"},
-			{"type": "link", "name": "supp.", "target": "https://curvenet.github.io/supplementary.pdf"}
+			{"type": "link", "name": "supp.", "target": "https://curvenet.github.io/supplementary.pdf"},
+			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/CurveNet"}
 		],
 		"equalcontrib": false
 	},
