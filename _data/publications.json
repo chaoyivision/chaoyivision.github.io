@@ -46,7 +46,6 @@
 		"date": "2020-02-07",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2004.09411.pdf"},
-			{"type": "link", "name": "slides", "target": "/papers/SOCNN19Slides.pdf"}
 		],
 		"equalcontrib": false
 	},
