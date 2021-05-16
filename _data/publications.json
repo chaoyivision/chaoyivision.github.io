@@ -20,7 +20,7 @@
 		"date": "2019-08-10",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://www.ijcai.org/Proceedings/2019/0121.pdf"},
-			{"type": "link", "name": "code", "target": "https://github.com/dliu5812/PFFNet"},
+			{"type": "link", "name": "repo", "target": "https://github.com/dliu5812/PFFNet"},
 			{"type": "link", "name": "Dongnan's follow-on works", "target": "https://scholar.google.com/citations?user=JZzb8XUAAAAJ"}
 		],
 		"equalcontrib": false
