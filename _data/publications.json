@@ -1,6 +1,7 @@
 [
 	{
 		"id": "VesselNet",
+		"img_fname": "VesselNet.png",
 		"title": "Vessel-Net: Retinal Vessel Segmentation under Multi-path Supervision",
 		"authors": ["Yicheng Wu", "Yong Xia", "Yang Song", "Donghao Zhang", "Dongnan Liu", "<u>Chaoyi Zhang</u>", "Weidong Cai"],
 		"venue": "MICCAI 2019",
@@ -14,6 +15,7 @@
 
 	{
 		"id": "NuSeg19",
+		"img_fname": "NuSeg19.png",
 		"title": "Nuclei Segmentation via a Deep Panoptic Model with Semantic Feature Fusion",
 		"authors": ["Dongnan Liu", "Donghao Zhang", "Yang Song", "<u>Chaoyi Zhang</u>", "Fan Zhang", "Lauren O’Donnell", "Weidong Cai"],
 		"venue": "IJCAI 2019 (oral)",
@@ -28,6 +30,7 @@
 
 	{
 		"id": "BioNet",
+		"img_fname": "BioNet.png",
 		"title": "BiO-Net: Learning Recurrent Bi-directional Connections for Encoder-Decoder Architecture",
 		"authors": ["Tiange Xiang", "<u>Chaoyi Zhang</u>", "Dongnan Liu", "Yang Song", "Heng Huang", "Weidong Cai"],
 		"venue": "MICCAI 2O2O (oral)",
@@ -41,6 +44,7 @@
 
 	{
 		"id": "SOCNN",
+		"img_fname": "SOCNN.png",
 		"title": "Shape-Oriented Convolution Neural Network for Point Cloud Analysis",
 		"authors": ["<u>Chaoyi Zhang</u>", "Yang Song", "Lina Yao", "Weidong Cai"],
 		"venue": "AAAI 2O2O (spotlight)",
@@ -53,6 +57,7 @@
 
 	{
 		"id": "SGGpoint",
+		"img_fname": "SGGpoint.gif",
 		"title": "Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis",
 		"authors": ["<u>Chaoyi Zhang</u>", "Jianhui Yu","Yang Song", "Weidong Cai"],
 		"venue": "CVPR 2021",
@@ -69,6 +74,7 @@
 
 	{
 		"id": "CurveNet",
+		"img_fname": "CurveNet.png",
 		"title": "Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis",
 		"authors": ["Tiange Xiang", "<u>Chaoyi Zhang</u>", "Jianhui Yu","Yang Song", "Weidong Cai"],
 		"venue": "arXiv 2021",
@@ -85,6 +91,7 @@
 
 	{
 		"id": "ICEGAN",
+		"img_fname": "ICEGAN.png",
 		"title": "ICE-GAN: Identity-aware and Capsule-Enhanced GAN with Graph-based Reasoning for Micro-Expression Recognition and Synthesis",
 		"authors": ["Jianhui Yu", "<u>Chaoyi Zhang</u>","Yang Song", "Weidong Cai"],
 		"venue": "IJCNN 2021 (oral)",
