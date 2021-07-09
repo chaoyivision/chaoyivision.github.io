@@ -87,7 +87,8 @@
 			{"type": "link", "name": "project", "target": "https://curvenet.github.io/"},
 			{"type": "link", "name": "video", "target": "https://curvenet.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://curvenet.github.io/supplementary.pdf"},
-			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/CurveNet"}
+			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/CurveNet"},
+			{"type": "link", "name": "SOTA@ModelNet40", "target": "https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40"},
 		],
 		"equalcontrib": false
 	},
