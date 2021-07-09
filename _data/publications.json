@@ -37,6 +37,9 @@
 		"date": "2020-10-04",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2007.00243.pdf"},
+			{"type": "link", "name": "project", "target": "https://bionets.github.io/"},
+			{"type": "link", "name": "video", "target": "https://bionets.github.io/#video"},
+			{"type": "link", "name": "supp.", "target": "https://bionets.github.io/bionet_supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/BiO-Net"}
 		],
 		"equalcontrib": false
@@ -118,5 +121,22 @@
 			{"type": "link", "name": "code", "target": "https://github.com/crane-papercode/ICE-GAN"}
 		],
 		"equalcontrib": false
+	},
+
+	{
+		"id": "BIXNAS",
+		"img_fname": "BIXNAS.png",
+		"title": "BiX-NAS: Searching Efficient Bi-directional Architecture for Medical Image Segmentation",
+		"authors": ["Xinyi Wang*", "Tiange Xiang*", "<u>Chaoyi Zhang</u>","Yang Song", "Dongnan Liu", "Heng Huang", "Weidong Cai"],
+		"venue": "MICCAI 2021",
+		"date": "2021-09-27",
+		"links" : [
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2106.14033.pdf"},
+			{"type": "link", "name": "project", "target": "https://bionets.github.io/"},
+			{"type": "link", "name": "video", "target": "https://bionets.github.io/#video"},
+			{"type": "link", "name": "supp.", "target": "https://bionets.github.io/bixnet_supplementary.pdf"},
+			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/BiX-NAS"}
+		],
+		"equalcontrib": true
 	}
 ]
