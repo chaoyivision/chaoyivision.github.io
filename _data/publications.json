@@ -50,7 +50,7 @@
 		"title": "Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis",
 		"authors": ["<b>Chaoyi Zhang</b>", "Jianhui Yu","Yang Song", "Weidong Cai"],
 		"venue": "CVPR 2021",
-		"date": "2021-06-19",
+		"date": "2021-06-30",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2103.05558.pdf"},
 			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"},
@@ -98,7 +98,7 @@
 		"title": "BiX-NAS: Searching Efficient Bi-directional Architecture for Medical Image Segmentation",
 		"authors": ["Xinyi Wang*", "Tiange Xiang*", "<b>Chaoyi Zhang</b>","Yang Song", "Dongnan Liu", "Heng Huang", "Weidong Cai"],
 		"venue": "MICCAI 2021",
-		"date": "2021-09-27",
+		"date": "2021-06-26",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2106.14033.pdf"},
 			{"type": "link", "name": "project", "target": "https://bionets.github.io/"},
