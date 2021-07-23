@@ -1,19 +1,5 @@
 [
 	{
-		"id": "VesselNet",
-		"img_fname": "VesselNet.png",
-		"title": "Vessel-Net: Retinal Vessel Segmentation under Multi-path Supervision",
-		"authors": ["Yicheng Wu", "Yong Xia", "Yang Song", "Donghao Zhang", "Dongnan Liu", "<b>Chaoyi Zhang</b>", "Weidong Cai"],
-		"venue": "MICCAI 2019",
-		"date": "2019-10-10",
-		"links" : [
-			{"type": "link", "name": "paper", "target": "/papers/VesselNet.pdf"},
-			{"type": "link", "name": "Yicheng's follow-on works", "target": "https://scholar.google.com/citations?user=_h1y48MAAAAJ"}
-		],
-        "equalcontrib": false
-	},
-
-	{
 		"id": "NuSeg19",
 		"img_fname": "NuSeg19.png",
 		"title": "Nuclei Segmentation via a Deep Panoptic Model with Semantic Feature Fusion",
@@ -81,7 +67,7 @@
 		"img_fname": "CurveNet.png",
 		"title": "Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis",
 		"authors": ["Tiange Xiang", "<b>Chaoyi Zhang</b>", "Jianhui Yu","Yang Song", "Weidong Cai"],
-		"venue": "arXiv 2021",
+		"venue": "ICCV 2021",
 		"date": "2021-06-04",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2105.01288.pdf"},
@@ -89,24 +75,7 @@
 			{"type": "link", "name": "video", "target": "https://curvenet.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://curvenet.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/CurveNet"},
-			{"type": "link", "name": "SOTA@ModelNet40", "target": "https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40"},
-		],
-		"equalcontrib": false
-	},
-
-	{
-		"id": "DropGraph",
-		"img_fname": "DropGraph.png",
-		"title": "DropGraph: Partial Graph Reasoning for Neural Network Regularization",
-		"authors": ["Tiange Xiang", "<b>Chaoyi Zhang</b>", "Yang Song", "Siqi Liu", "Hongliang Yuan", "Weidong Cai"],
-		"venue": "arXiv 2021",
-		"date": "2021-06-03",
-		"links" : [
-			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2106.01805.pdf"},
-			{"type": "link", "name": "project", "target": "https://dropgraph.github.io/"},
-			{"type": "link", "name": "video", "target": "https://dropgraph.github.io/#video"},
-			{"type": "link", "name": "supp.", "target": "https://dropgraph.github.io/supplementary.pdf"},
-			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/DropGraph"}
+			{"type": "link", "name": "SOTA@ModelNet40", "target": "https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40"}
 		],
 		"equalcontrib": false
 	},
@@ -120,6 +89,8 @@
 		"date": "2021-04-26",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2005.04370.pdf"},
+			{"type": "link", "name": "project", "target": "https://icegan.github.io/"},
+			{"type": "link", "name": "video", "target": "https://icegan.github.io/#video"},
 			{"type": "link", "name": "code", "target": "https://github.com/crane-papercode/ICE-GAN"}
 		],
 		"equalcontrib": false
