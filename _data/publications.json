@@ -24,7 +24,6 @@
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2007.00243.pdf"},
 			{"type": "link", "name": "project", "target": "https://bionets.github.io/"},
-			{"type": "link", "name": "video", "target": "https://bionets.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://bionets.github.io/bionet_supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/BiO-Net"},
 			{"type": "link", "name": "follow-on work (BiX-NAS)", "target": "https://arxiv.org/abs/2106.14033?context=cs.CV"}
@@ -55,7 +54,6 @@
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2103.05558.pdf"},
 			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"},
-			{"type": "link", "name": "video", "target": "https://sggpoint.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://sggpoint.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/chaoyivision/SGGpoint"}
 		],
@@ -72,7 +70,6 @@
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2105.01288.pdf"},
 			{"type": "link", "name": "project", "target": "https://curvenet.github.io/"},
-			{"type": "link", "name": "video", "target": "https://curvenet.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://curvenet.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/CurveNet"},
 			{"type": "link", "name": "SOTA@ModelNet40", "target": "https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40"}
@@ -90,7 +87,6 @@
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2005.04370.pdf"},
 			{"type": "link", "name": "project", "target": "https://icegan.github.io/"},
-			{"type": "link", "name": "video", "target": "https://icegan.github.io/#video"},
 			{"type": "link", "name": "code", "target": "https://github.com/crane-papercode/ICE-GAN"}
 		],
 		"equalcontrib": false
@@ -106,7 +102,6 @@
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2106.14033.pdf"},
 			{"type": "link", "name": "project", "target": "https://bionets.github.io/"},
-			{"type": "link", "name": "video", "target": "https://bionets.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://bionets.github.io/bixnet_supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/BiX-NAS"}
 		],
