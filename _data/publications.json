@@ -54,6 +54,7 @@
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2103.05558.pdf"},
 			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"},
+			{"type": "link", "name": "video", "target": "https://sggpoint.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://sggpoint.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/chaoyivision/SGGpoint"},
 			{"type": "link", "name": "EdgeGCN", "target": "https://github.com/chaoyivision/SGGpoint/blob/main/EdgeGCN.py"}
@@ -103,6 +104,7 @@
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2106.14033.pdf"},
 			{"type": "link", "name": "project", "target": "https://bionets.github.io/"},
+			{"type": "link", "name": "video", "target": "https://bionets.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://bionets.github.io/bixnet_supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/BiX-NAS"}
 		],
