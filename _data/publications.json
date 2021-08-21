@@ -39,7 +39,7 @@
 		"venue": "AAAI 2O2O (spotlight)",
 		"date": "2020-02-07",
 		"links" : [
-			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2004.09411.pdf"}
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2004.09411.pdf"},
 		],
 		"equalcontrib": false
 	},
@@ -54,7 +54,7 @@
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2103.05558.pdf"},
 			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"},
-			{"type": "link", "name": "<font style=\"color:blue>video</font>", "target": "https://sggpoint.github.io/#video"},
+			{"type": "link", "name": "video", "target": "https://sggpoint.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://sggpoint.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/chaoyivision/SGGpoint"},
 			{"type": "link", "name": "EdgeGCN", "target": "https://github.com/chaoyivision/SGGpoint/blob/main/EdgeGCN.py"}
