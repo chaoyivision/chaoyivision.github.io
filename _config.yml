@@ -108,9 +108,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ChaoyiVision"
-    - label: "  ChaoyiVision[at]gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/chaoyi-z-a3556b139/"
+    - label: "ChaoyiVision[at]gmail.com"
       icon: "fas fa-envelope"
-      url: "mailto:ChaoyiVision@gmail.com"
+
 
 
 # Reading Files
