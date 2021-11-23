@@ -115,7 +115,7 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:ChaoyiVision@gmail.com"
     - label: "Resume"
-      icon: "fal fa-file-pdf"
+      icon: "far fa-file"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSfnjDNNSa2LlnwjRlANsKLPBU5nJ7giM-d9uF_n1JO37vXduw/viewform"
 
 
