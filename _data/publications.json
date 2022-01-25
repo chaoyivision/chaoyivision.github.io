@@ -21,17 +21,13 @@
 		"authors": ["Tiange Xiang", "<b>Chaoyi Zhang</b>", "Dongnan Liu", "Yang Song", "Heng Huang", "Weidong Cai"],
 		"venue": "MICCAI 2O2O (oral) & MICCAI2021",
 		"date": "2020-10-04",
-		"info": "- BiO-Net: Learning Recurrent Bi-directional Connections for Encoder-Decoder Architecture<br> <a style=\"text-decoration: none\" href=\"https://www.sydney.edu.au/\" target=\"_blank\">paper</a> <br>- BiX-NAS: Searching Efficient Bi-directional Architecture for Medical Image Segmentation",
+		"info": "- BiO-Net: Learning Recurrent Bi-directional Connections for Encoder-Decoder Architecture<br> <\t><a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2007.00243.pdf\" target=\"_blank\">paper</a> | <a style=\"text-decoration: none\" href=\"https://bionets.github.io/bionet_supplementary.pdf\" target=\"_blank\">supp</a> | <a style=\"text-decoration: none\" href=\"https://github.com/tiangexiang/BiO-Net\" target=\"_blank\">code</a><br>- BiX-NAS: Searching Efficient Bi-directional Architecture for Medical Image Segmentation <\t><a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2106.14033.pdf\" target=\"_blank\">paper</a> | <a style=\"text-decoration: none\" href=\"https://bionets.github.io/bixnet_supplementary.pdf\" target=\"_blank\">supp</a> | <a style=\"text-decoration: none\" href=\"https://github.com/tiangexiang/BiX-NAS\" target=\"_blank\">code</a>",
 
 
 		"links" : [
-			{"type": "link", "name": "paper (BiO-Net)", "target": "https://arxiv.org/pdf/2007.00243.pdf"},
 			{"type": "link", "name": "paper (BiX-NAS)", "target": "https://arxiv.org/pdf/2106.14033.pdf"},
 			{"type": "link", "name": "project", "target": "https://bionets.github.io/"},
-			{"type": "link", "name": "video", "target": "https://bionets.github.io/#video"},
-			{"type": "link", "name": "supp.", "target": "https://bionets.github.io/bionet_supplementary.pdf"},
-			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/BiO-Net"},
-			{"type": "link", "name": "follow-on work (BiX-NAS)", "target": "https://arxiv.org/abs/2106.14033?context=cs.CV"}
+			{"type": "link", "name": "video", "target": "https://bionets.github.io/#video"}
 		],
 		"equalcontrib": false
 	},
