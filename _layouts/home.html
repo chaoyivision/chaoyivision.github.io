@@ -98,7 +98,7 @@ return false;
 
 
 				<div class='pubvenue'>{{ pub.venue }}</div>
-				<div class='pubinfo'>{{ pub.info }}</div>
+
 				{% for link in pub.links %}
 					{% if forloop.first == false %} | {% endif %}
 
@@ -125,6 +125,7 @@ return false;
 					<div><span class='label pubaward'>{{ pub.award }}</span></div>
 				{% endif %}
 
+				<div class='pubinfo'>{{ pub.info }}</div>
 			</div>
 		</div>
 
