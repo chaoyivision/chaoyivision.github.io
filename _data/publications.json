@@ -21,7 +21,9 @@
 		"authors": ["Tiange Xiang", "<b>Chaoyi Zhang</b>", "Dongnan Liu", "Yang Song", "Heng Huang", "Weidong Cai"],
 		"venue": "MICCAI 2O2O (oral) & MICCAI2021",
 		"date": "2020-10-04",
-		"info": "- BiO-Net: Learning Recurrent Bi-directional Connections for Encoder-Decoder Architecture<br>- BiX-NAS: Searching Efficient Bi-directional Architecture for Medical Image Segmentation",
+		"info": "- BiO-Net: Learning Recurrent Bi-directional Connections for Encoder-Decoder Architecture<br> <a style=\"text-decoration: none\" href=\"https://www.sydney.edu.au/\" target=\"_blank\">paper</a> <br>- BiX-NAS: Searching Efficient Bi-directional Architecture for Medical Image Segmentation",
+
+
 		"links" : [
 			{"type": "link", "name": "paper (BiO-Net)", "target": "https://arxiv.org/pdf/2007.00243.pdf"},
 			{"type": "link", "name": "paper (BiX-NAS)", "target": "https://arxiv.org/pdf/2106.14033.pdf"},
