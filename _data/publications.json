@@ -17,11 +17,11 @@
 	{
 		"id": "BioNet",
 		"img_fname": "BioNet.png",
-		"title": "BiO-Net: Learning Recurrent Bi-directional Connections for Encoder-Decoder Architecture",
+		"title": "The BiO-Nets",
 		"authors": ["Tiange Xiang", "<b>Chaoyi Zhang</b>", "Dongnan Liu", "Yang Song", "Heng Huang", "Weidong Cai"],
-		"venue": "MICCAI 2O2O (oral)",
+		"venue": "MICCAI 2O2O (oral) and MICCAI2021",
 		"date": "2020-10-04",
-		"info": "something？",
+		"info": "Bio-Net: Learning Recurrent Bi-directional Connections for Encoder-Decoder Architecture\nBiX-NAS: Searching Efficient Bi-directional Architecture for Medical Image Segmentation",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2007.00243.pdf"},
 			{"type": "link", "name": "project", "target": "https://bionets.github.io/"},
@@ -41,7 +41,7 @@
 		"venue": "AAAI 2O2O (spotlight)",
 		"date": "2020-02-07",
 		"links" : [
-			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2004.09411.pdf"},
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2004.09411.pdf"}
 		],
 		"equalcontrib": false
 	},
