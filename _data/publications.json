@@ -22,8 +22,6 @@
 		"venue": "MICCAI 2O2O (oral) & MICCAI2021",
 		"date": "2021-06-26",
 		"info": "- BiO-Net(Recurrent Bi-directional Connections): <a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2007.00243.pdf\" target=\"_blank\">paper</a> | <a style=\"text-decoration: none\" href=\"https://bionets.github.io/bionet_supplementary.pdf\" target=\"_blank\">supp</a> | <a style=\"text-decoration: none\" href=\"https://github.com/tiangexiang/BiO-Net\" target=\"_blank\">code</a><br>- BiX-NAS(Searching Bi-directional Architecture): <a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2106.14033.pdf\" target=\"_blank\">paper</a> | <a style=\"text-decoration: none\" href=\"https://bionets.github.io/bixnet_supplementary.pdf\" target=\"_blank\">supp</a> | <a style=\"text-decoration: none\" href=\"https://github.com/tiangexiang/BiX-NAS\" target=\"_blank\">code</a>",
-
-
 		"links" : [
 			{"type": "link", "name": "project", "target": "https://bionets.github.io/"},
 			{"type": "link", "name": "video", "target": "https://bionets.github.io/#video"}
@@ -52,8 +50,8 @@
 		"venue": "CVPR 2021",
 		"date": "2021-06-30",
 		"links" : [
-			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2103.05558.pdf"},
 			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"},
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2103.05558.pdf"},
 			{"type": "link", "name": "video", "target": "https://sggpoint.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://sggpoint.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/chaoyivision/SGGpoint"},
@@ -70,8 +68,8 @@
 		"venue": "ICCV 2021",
 		"date": "2021-10-11",
 		"links" : [
-			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2105.01288.pdf"},
 			{"type": "link", "name": "project", "target": "https://curvenet.github.io/"},
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2105.01288.pdf"},
 			{"type": "link", "name": "video", "target": "https://curvenet.github.io/#video"},
 			{"type": "link", "name": "supp.", "target": "https://curvenet.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/CurveNet"},
@@ -88,8 +86,8 @@
 		"venue": "IJCNN 2021 (oral)",
 		"date": "2021-04-26",
 		"links" : [
-			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2005.04370.pdf"},
 			{"type": "link", "name": "project", "target": "https://icegan.github.io/"},
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2005.04370.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/crane-papercode/ICE-GAN"}
 		],
 		"equalcontrib": false
