@@ -22,7 +22,7 @@
 		"date": "2021-06-26",
 		"info": "- BiO-Net (Recurrent Bi-directional Connections): <a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2007.00243.pdf\" target=\"_blank\">paper</a>, <a style=\"text-decoration: none\" href=\"https://bionets.github.io/bionet_supplementary.pdf\" target=\"_blank\">supp</a>, <a style=\"text-decoration: none\" href=\"https://github.com/tiangexiang/BiO-Net\" target=\"_blank\">code</a><br>- BiX-NAS (Searching Bi-directional Architecture): <a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2106.14033.pdf\" target=\"_blank\">paper</a>, <a style=\"text-decoration: none\" href=\"https://bionets.github.io/bixnet_supplementary.pdf\" target=\"_blank\">supp</a>, <a style=\"text-decoration: none\" href=\"https://github.com/tiangexiang/BiX-NAS\" target=\"_blank\">code</a><br>- Towards Bi-directional Skip Connections and Beyond: <a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2203.05709.pdf\" target=\"_blank\">paper</a>",
 		"links" : [
-			{"type": "link", "name": "project (w/ video)", "target": "https://bionets.github.io/"},
+			{"type": "link", "name": "project (w/ video)", "target": "https://bionets.github.io/"}
 		],
 		"equalcontrib": false
 	},
@@ -85,6 +85,22 @@
 			{"type": "link", "name": "project", "target": "https://icegan.github.io/"},
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2005.04370.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/crane-papercode/ICE-GAN"}
+		],
+		"equalcontrib": false
+	},
+
+	{
+		"id": "SpaCap3d",
+		"img_fname": "SpaCap3d.png",
+		"title": "Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds\n",
+		"authors": ["Heng Wang", "<b>Chaoyi Zhang</b>","Jianhui Yu", "Weidong Cai"],
+		"venue": "IJCAI 2022",
+		"date": "2022-7-23",
+		"links" : [
+			{"type": "link", "name": "project (w/ video)", "target": "https://spacap3d.github.io/"},
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2204.10688.pdf"},
+			{"type": "link", "name": "supp.", "target": "https://spacap3d.github.io/supplementary.pdf"},
+			{"type": "link", "name": "code", "target": "https://github.com/heng-hw/SpaCap3D"}
 		],
 		"equalcontrib": false
 	}
