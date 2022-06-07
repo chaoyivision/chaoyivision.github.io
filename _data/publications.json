@@ -92,7 +92,7 @@
 	{
 		"id": "SpaCap3d",
 		"img_fname": "SpaCap3d.png",
-		"title": "Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds\n",
+		"title": "Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds",
 		"authors": ["Heng Wang", "<b>Chaoyi Zhang</b>","Jianhui Yu", "Weidong Cai"],
 		"venue": "IJCAI 2022",
 		"date": "2022-7-23",
@@ -101,6 +101,21 @@
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2204.10688.pdf"},
 			{"type": "link", "name": "supp.", "target": "https://spacap3d.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/heng-hw/SpaCap3D"}
+		],
+		"equalcontrib": false
+	},
+
+	{
+		"id": "AVGEN",
+		"img_fname": "AVGEN.png",
+		"title": "Towards Generalisable Audio Representations for Audio-Visual Navigation",
+		"authors": ["Shunqi Mao", "<b>Chaoyi Zhang</b>","Heng Wang", "Weidong Cai"],
+		"venue": "CVPR 2022 Embodied AI Workshop",
+		"date": "2022-6-19",
+		"links" : [
+			{"type": "link", "name": "project (w/ video)", "target": "https://av-gen.github.io/"},
+			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2206.00393.pdf"},
+			{"type": "link", "name": "code", "target": "https://github.com/ShunqiM/AV-GeN"}
 		],
 		"equalcontrib": false
 	}
