@@ -115,7 +115,8 @@
 		"links" : [
 			{"type": "link", "name": "project (w/ video)", "target": "https://av-gen.github.io/"},
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2206.00393.pdf"},
-			{"type": "link", "name": "code", "target": "https://github.com/ShunqiM/AV-GeN"}
+			{"type": "link", "name": "code", "target": "https://github.com/ShunqiM/AV-GeN"},
+			{"type": "link", "name": "2nd rank in SR and dist2goal @ SoundSpace Challenge 2022", "target": "https://eval.ai/web/challenges/challenge-page/1621/leaderboard/3908/SUCCESS"}
 		],
 		"equalcontrib": false
 	}
