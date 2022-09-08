@@ -100,7 +100,8 @@
 			{"type": "link", "name": "project (w/ video)", "target": "https://spacap3d.github.io/"},
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2204.10688.pdf"},
 			{"type": "link", "name": "supp.", "target": "https://spacap3d.github.io/supplementary.pdf"},
-			{"type": "link", "name": "code", "target": "https://github.com/heng-hw/SpaCap3D"}
+			{"type": "link", "name": "code", "target": "https://github.com/heng-hw/SpaCap3D"},
+			{"type": "link", "name": "2nd rank@Scan2Cap Benchmark", "target": "https://kaldir.vc.in.tum.de/scanrefer_benchmark/benchmark_captioning"}
 		],
 		"equalcontrib": false
 	},
