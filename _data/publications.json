@@ -1,19 +1,5 @@
 [
 	{
-		"id": "NuSeg19",
-		"img_fname": "NuSeg19.png",
-		"title": "Nuclei Segmentation via a Deep Panoptic Model with Semantic Feature Fusion",
-		"authors": ["Dongnan Liu", "Donghao Zhang", "Yang Song", "<b>Chaoyi Zhang</b>", "Fan Zhang", "Lauren O’Donnell", "Weidong Cai"],
-		"venue": "IJCAI 2019 (oral)",
-		"date": "2019-08-10",
-		"links" : [
-			{"type": "link", "name": "paper", "target": "https://www.ijcai.org/Proceedings/2019/0121.pdf"},
-			{"type": "link", "name": "code", "target": "https://github.com/dliu5812/PFFNet"}
-		],
-		"equalcontrib": false
-	},
-
-	{
 		"id": "BioNet",
 		"img_fname": "BioNet.png",
 		"title": "The BiO-Nets for Efficient Medical Image Segmentation",
