@@ -8,7 +8,7 @@
 		"date": "2021-06-26",
 		"info": "- BiO-Net (Recurrent Bi-directional Connections): <a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2007.00243.pdf\" target=\"_blank\">paper</a>, <a style=\"text-decoration: none\" href=\"https://bionets.github.io/bionet_supplementary.pdf\" target=\"_blank\">supp</a>, <a style=\"text-decoration: none\" href=\"https://github.com/tiangexiang/BiO-Net\" target=\"_blank\">code</a><br>- BiX-NAS (Searching Bi-directional Architecture): <a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2106.14033.pdf\" target=\"_blank\">paper</a>, <a style=\"text-decoration: none\" href=\"https://bionets.github.io/bixnet_supplementary.pdf\" target=\"_blank\">supp</a>, <a style=\"text-decoration: none\" href=\"https://github.com/tiangexiang/BiX-NAS\" target=\"_blank\">code</a><br>- Towards Bi-directional Skip Connections and Beyond: <a style=\"text-decoration: none\" href=\"https://arxiv.org/pdf/2203.05709.pdf\" target=\"_blank\">paper</a>",
 		"links" : [
-			{"type": "link", "name": "project (w/ video)", "target": "https://bionets.github.io/"}
+			{"type": "link", "name": "project", "target": "https://bionets.github.io/"}
 		],
 		"equalcontrib": false
 	},
@@ -34,7 +34,7 @@
 		"venue": "CVPR 2021",
 		"date": "2021-06-30",
 		"links" : [
-			{"type": "link", "name": "project (w/ video)", "target": "https://sggpoint.github.io/"},
+			{"type": "link", "name": "project", "target": "https://sggpoint.github.io/"},
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2103.05558.pdf"},
 			{"type": "link", "name": "supp.", "target": "https://sggpoint.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/chaoyivision/SGGpoint"},
@@ -51,7 +51,7 @@
 		"venue": "ICCV 2021",
 		"date": "2021-10-11",
 		"links" : [
-			{"type": "link", "name": "project (w/ video)", "target": "https://curvenet.github.io/"},
+			{"type": "link", "name": "project", "target": "https://curvenet.github.io/"},
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2105.01288.pdf"},
 			{"type": "link", "name": "supp.", "target": "https://curvenet.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/tiangexiang/CurveNet"},
@@ -83,7 +83,7 @@
 		"venue": "IJCAI 2022",
 		"date": "2022-7-23",
 		"links" : [
-			{"type": "link", "name": "project (w/ video)", "target": "https://spacap3d.github.io/"},
+			{"type": "link", "name": "project", "target": "https://spacap3d.github.io/"},
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2204.10688.pdf"},
 			{"type": "link", "name": "supp.", "target": "https://spacap3d.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/heng-hw/SpaCap3D"},
@@ -100,7 +100,7 @@
 		"venue": "CVPR 2022 Embodied AI Workshop",
 		"date": "2022-6-19",
 		"links" : [
-			{"type": "link", "name": "project (w/ video)", "target": "https://av-gen.github.io/"},
+			{"type": "link", "name": "project", "target": "https://av-gen.github.io/"},
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2206.00393.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/ShunqiM/AV-GeN"},
 			{"type": "link", "name": "2nd@SoundSpaceChallenge (SR & dist2goal)", "target": "https://eval.ai/web/challenges/challenge-page/1621/leaderboard/3908/SUCCESS"}
