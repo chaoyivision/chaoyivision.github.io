@@ -99,7 +99,7 @@ author:
   bio              : "PhD @ USYD &\n Intern @ FAIR"
   #location         : "Sydney, Australia"
   links:
-    - label: "University of Sydney"
+    - label: "University of Sydney (AU)"
       icon: "fas fa-university"
       url: "https://www.sydney.edu.au/engineering/about/our-people/research-students/chaoyi-zhang-632.html"
     - label: "Google Scholar"
