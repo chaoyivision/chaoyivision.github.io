@@ -96,10 +96,10 @@ analytics:
 author:
   name             : "Chaoyi Zhang"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "CS PhD Candidate"
+  bio              : "CS PhD Candidate\n USYD"
   #location         : "Sydney, Australia"
   links:
-    - label: "Sydney Uni, AU"
+    - label: "University of Sydney"
       icon: "fas fa-university"
       url: "https://www.sydney.edu.au/engineering/about/our-people/research-students/chaoyi-zhang-632.html"
     - label: "Google Scholar"
