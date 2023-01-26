@@ -59,22 +59,6 @@
 		],
 		"equalcontrib": false
 	},
-
-	{
-		"id": "ICEGAN",
-		"img_fname": "ICEGAN.png",
-		"title": "ICE-GAN: Identity-aware and Capsule-Enhanced GAN with Graph-based Reasoning for Micro-Expression Recognition and Synthesis",
-		"authors": ["Jianhui Yu", "<b>Chaoyi Zhang</b>","Yang Song", "Weidong Cai"],
-		"venue": "IJCNN 2021 (oral)",
-		"date": "2021-04-26",
-		"links" : [
-			{"type": "link", "name": "project", "target": "https://icegan.github.io/"},
-			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2005.04370.pdf"},
-			{"type": "link", "name": "code", "target": "https://github.com/crane-papercode/ICE-GAN"}
-		],
-		"equalcontrib": false
-	},
-
 	{
 		"id": "SpaCap3d",
 		"img_fname": "SpaCap3d.gif",
@@ -87,7 +71,7 @@
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2204.10688.pdf"},
 			{"type": "link", "name": "supp.", "target": "https://spacap3d.github.io/supplementary.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/heng-hw/SpaCap3D"},
-			{"type": "link", "name": "2nd@Scan2CapBenchmark", "target": "https://kaldir.vc.in.tum.de/scanrefer_benchmark/benchmark_captioning"}
+			{"type": "link", "name": "2nd@Scan2Cap (by Aug 2022)", "target": "https://kaldir.vc.in.tum.de/scanrefer_benchmark/benchmark_captioning"}
 		],
 		"equalcontrib": false
 	},
@@ -103,7 +87,7 @@
 			{"type": "link", "name": "project", "target": "https://av-gen.github.io/"},
 			{"type": "link", "name": "paper", "target": "https://arxiv.org/pdf/2206.00393.pdf"},
 			{"type": "link", "name": "code", "target": "https://github.com/ShunqiM/AV-GeN"},
-			{"type": "link", "name": "2nd@SoundSpaceChallenge (SR & dist2goal)", "target": "https://eval.ai/web/challenges/challenge-page/1621/leaderboard/3908/SUCCESS"}
+			{"type": "link", "name": "2nd@SoundSpace (SR & dist2goal)", "target": "https://eval.ai/web/challenges/challenge-page/1621/leaderboard/3908/SUCCESS"}
 		],
 		"equalcontrib": false
 	}
