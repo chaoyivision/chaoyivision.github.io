@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Chaoyi Zhang"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "PhD @ USYD <br> Intern @ FAIR"
+  bio              : ""
   #location         : "Sydney, Australia"
   links:
     - label: "University of Sydney (AU)"
