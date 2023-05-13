@@ -99,9 +99,6 @@ author:
   bio              : ""
   #location         : "Sydney, Australia"
   links:
-    - label: "University of Sydney (AU)"
-      icon: "fas fa-university"
-      url: "https://www.sydney.edu.au/engineering/about/our-people/research-students/chaoyi-zhang-632.html"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?&user=GSM6eT0AAAAJ&sortby=pubdate"
