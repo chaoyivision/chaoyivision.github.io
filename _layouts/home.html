@@ -17,7 +17,7 @@ var debbieframe = document.getElementById("debbieframe");
 if (DEBBIE_BUTTON) {
 	img.src="assets/images/debbie.jpeg";
 	authornamedebbie.innerText = 'Debbie';
-	authorbiodebbie.innerText = "A poor axolotl who suffers from Chaoyi\'s tons of nonsense murmurs when he reads and codes."
+	authorbiodebbie.innerText = "A poor axolotl who suffered from Chaoyi\'s tons of nonsense murmurs when he reads and codes during his PhD."
 	authorbiodebbie.style = 'font-size:0.7em';
 	debbieframe.style.display = 'block';
 }else{
@@ -36,13 +36,16 @@ return false;
 <h4 class="archive__subtitle">About Me</h4>
 
 
-<p> I am a CS PhD candidate in Computer Vision (<b>3D Scene Understanding</b>) at The <a style="text-decoration: none" href="https://www.sydney.edu.au/" target="_blank">University of Sydney</a> (USYD) advised by <a style="text-decoration: none" href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tom-cai.html" target="_blank">A/Prof. Weidong Cai</a> (USYD) and <a style="text-decoration: none" href="http://www.cse.unsw.edu.au/~ysong/" target="_blank">A/Prof. Yang Song</a> (UNSW).
+<p> 
+	I pursue Scaling Law research and help scale Foundation Models at ByteDance Seed.
 
-	Previously, I got my bachelor degree at USYD, with First-Class Honours and University Medal (H1M) received in Computer Science (<b>Medical Image Computing</b>).
+	Previously, I completed my PhD in 2023, during which I spent joyful and quality time at Meta FAIR, Amazon AWS AI Lab, Microsoft GenAI, and Google Cloud AI. Grateful to all my mentors and peers. My PhD topics were Medical Computer Vision and 3D Scene Understanding.
+
+	Before that, I also got my bachelor degree from the University of Sydney, with a university medal received in computer science.
 </p>
 
 
-<h4 class="archive__subtitle">Projects</h4>
+<h4 class="archive__subtitle">PhD Projects (during LLM Pre-Era)</h4>
 <div class='mainitem' id='publications'>
 
 	{% assign sorted_pubs = site.data.publications | sort: 'date' | reverse %}
@@ -125,16 +128,18 @@ return false;
 	</div>
 <p style="font-size:0.6em"><em>* A full list of my publications can be found in my <a style="text-decoration: none" href="https://scholar.google.com/citations?user=GSM6eT0AAAAJ" target="_blank">Google Scholar</a>.</em></p>
 
+
+<!-- 
 <h6 class="archive__subtitle">A Few Random Thoughts</h6>
 <ul>
 	<li style="font-size:0.7em"><a style="text-decoration: none" href="https://github.com/chaoyivision/ebatch" target="_blank">ebatch: makes sbatch easier (SLURM helper)!</a> <br>
 		adding one single word to launch sbatch <font style="color: #d65129"><em>(e.g., </em></font><code class="bash">ebatch "echo Hello World!"</code><font style="color: #d65129"><em>)</em></font>.</li>
-	<li style="font-size:0.7em">[2023.02] Our historic mission (as human being) is probably, to produce so-called 'human-alike behavior' data, which contains co-occurance patterns for machines to encode, learn, memorize, and ultimately, evolve ...</li>
-	<li style="font-size:0.7em"><a style="text-decoration: none" href="https://github.com/chaoyivision/python-dprint" target="_blank">python-dprint: an easy-to-use debug-print package for deep learning studies (colorful print with calling positions)</a> <br> <!-- <object data="https://img.shields.io/pypi/dm/pydprint?color=blue&label=installed&style=plastic"></object> -->
+	<li style="font-size:0.7em">[2023.02] Our historic mission (as human being) is probably, to produce so-called 'human-alike behavior' data, which contains a few patterns for machines to encode, learn, memorize, and ultimately, evolve ...</li>
+	<li style="font-size:0.7em"><a style="text-decoration: none" href="https://github.com/chaoyivision/python-dprint" target="_blank">python-dprint: an easy-to-use debug-print package for deep learning studies (colorful print with calling positions)</a> <br> <object data="https://img.shields.io/pypi/dm/pydprint?color=blue&label=installed&style=plastic"></object>
 		try install it   <font style="color: #0066ff"><em>(</em></font><code class="bash">pip install pydprint</code><font style="color: #0066ff"><em>)</em></font>, <br>
 		&nbsp&nbsp&nbsp&nbsp import it   <font style="color: #0066ff"><em>(</em></font><code class="python">from pydprint import dprint</code><font style="color: #0066ff"><em>)</em></font>, and<br>
 		&nbsp&nbsp&nbsp&nbsp debug it   <font style="color: #0066ff"><em>(</em></font><code class="python">loss = loss_node + dprint(loss_edge)</code><font style="color: #0066ff"><em>)</em></font> !</li>
-	<li style="font-size:0.7em"><a style="text-decoration: none" href="https://github.com/chaoyivision/comm_ddp" target="_blank">comm_ddp: an easy-to-use communication tools for pytorch-DDP (single-node with multi-GPUs)</a> <br> <!-- <object data="https://img.shields.io/pypi/dm/comm-ddp?color=orange&label=installed&style=plastic"></object> -->
+	<li style="font-size:0.7em"><a style="text-decoration: none" href="https://github.com/chaoyivision/comm_ddp" target="_blank">comm_ddp: an easy-to-use communication tools for pytorch-DDP (single-node with multi-GPUs)</a> <br> <object data="https://img.shields.io/pypi/dm/comm-ddp?color=orange&label=installed&style=plastic"></object>
 		try install it <font style="color: #ffaf24"><em>(</em></font><code class="bash">pip install comm-ddp</code><font style="color: #ffaf24"><em>)</em></font>, <br>
 		&nbsp&nbsp&nbsp&nbsp import it <font style="color: #ffaf24"><em>(</em></font><code class="python">from comm_ddp import comm</code><font style="color: #ffaf24"><em>)</em></font>, and<br>
 		&nbsp&nbsp&nbsp&nbsp launch it <font style="color: #ffaf24"><em>(</em></font><code class="python">comm.launch_DDP()</code><font style="color: #ffaf24"><em>)</em></font> ! <br>
@@ -152,11 +157,11 @@ return false;
 	<li style="font-size:0.7em">UG. Research Assistant, <a style="color: #3D0C02; text-decoration: none" href="https://www.snac.com.au/" target="_blank">Sydney Neuroimaging Analysis Centre (SNAC)</a>, 2018 - 2019</li>
 	<li style="font-size:0.7em">Summer Research Scholar, <a style="color: #3D0C02; text-decoration: none" href="https://www.csiro.au/" target="_blank">Commonwealth Scientific and Industrial Research Organisation (CSIRO) Data61 (f.k.a., NICTA)</a>, 2016 - 2017</li>
 	<li style="font-size:0.7em">ML Engineer, <a style="color: #3D0C02; text-decoration: none" href="https://www.uts.edu.au/research-and-teaching/our-research/global-big-data-technologies-centre" target="_blank">University of Technology Sydney (UTS)</a>, 2016</li>
-	<!-- <li style="font-size:0.7em"><b>Assist in supervision and mentoring</b> Undergrad. <a style="text-decoration: none" href="https://kmrg.cs.usyd.edu.au/current_students/undergrad/tsp-ssp.shtml" target="_blank">SSP/TSP</a>/Honours and MPhil. research students - welcome to join our <a style="text-decoration: none" href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tom-cai.html#collapseprofileprojects" target="_blank">research squad</a>!</li> -->
+    <li style="font-size:0.7em"><b>Assist in supervision and mentoring</b> Undergrad. <a style="text-decoration: none" href="https://kmrg.cs.usyd.edu.au/current_students/undergrad/tsp-ssp.shtml" target="_blank">SSP/TSP</a>/Honours and MPhil. research students - welcome to join our <a style="text-decoration: none" href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tom-cai.html#collapseprofileprojects" target="_blank">research squad</a>!</li>
 </ul>
 
 
-<h4 class="archive__subtitle">Academic Service</h4>
+<h4 class="archive__subtitle">Services</h4>
 <ul>
 <li style="font-size:0.7em">I served as Conference Reviewer for CVPR 2021, 2022, 2023; ICCV 2021, 2023; ECCV 2022; NeurIPS 2022; AAAI 2021; MICCAI 2020, 2021, 2022; WACV 2019; DICTA 2020; ICASSP 2020; ISBI 2021; EMBC 2020</li>
 <li style="font-size:0.7em">I served as Journal Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Medical Imaging (TMI), IEEE Transactions on Multimedia (ToM), IEEE Transactions on Cognitive and Developmental Systems (TCDS), Neurocomputing</li>
@@ -173,7 +178,7 @@ and at University of New South Wales (UNSW)
 	<li style="font-size:0.7em">COMP9517 Computer Vision (2019): <i>TA; intro. research talks</i></li>
 </ul></li>
 </ul>
-<!--
+
 <h4 class="archive__subtitle">Honors and Awards</h4>
 <ul>
 	<li style="font-size:0.7em">Australia RTP Fellowship (International Track) 2019-2022<font style="color:lightgrey">, Australian Government</font> <br>Google/IBM PhD Fellowship Oceania Nominees 2020/2021<font style="color:lightgrey">, Google/IBM</font></li>
